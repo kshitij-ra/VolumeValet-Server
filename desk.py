@@ -4,6 +4,13 @@ from pyqrcode import create
 from socket import gethostbyname,gethostname
 import api
 
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+    return os.path.join(base_path, relative_path)
+
 def refr():
     global url
     url = "VolumeValet:"+gethostbyname(gethostname()) + ":5000"
@@ -57,7 +64,7 @@ class App(CTk):
         self.minsize(325,230)
         self.resizable(False, False)
 
-        self.iconbitmap('code.ico')
+        self.iconbitmap(resource_path('code.ico'))
 
         frame = CTkFrame(master=self)
         frame.pack(pady=20,padx=20, fill="both", expand=True)

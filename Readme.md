@@ -19,6 +19,8 @@
 <h3  align="center">VolumeValet-Server</h3>
 <p  align="center">
 VolumeValet is a convenient Android app for controlling your PC's volume from your phone over the local network. This repo is for the VolumeValet-Server that needs to run on your PC.
+
+Check out the VolumeValet App [here](https://github.com/kshitij-ra/VolumeValet)
 <br />
 <a  href="https://github.com/kshitij-ra/VolumeValet-Server/issues">Report Bug</a> · 
 <a  href="https://github.com/kshitij-ra/VolumeValet-Server/issues">Request Feature</a>
@@ -81,7 +83,7 @@ Whether you're watching a movie, playing a game, or just listening to music, Vol
   
 <!-- USAGE EXAMPLES -->
 ## Usage
-  1. Download the precompiled app from [here]() or build the app locally.
+  1. Download the precompiled app from [here](https://github.com/kshitij-ra/VolumeValet-Server/releases/tag/v1.0.0) or build the app locally.
   2. Start the server on PC.
   3. Launch the Android app. See [VolumeValet](https://github.com/kshitij-ra/VolumeValet) for details.
   4. Scan the QR or enter the address and port manually.

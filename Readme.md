@@ -176,15 +176,15 @@ Project Link: [https://github.com/kshitij-ra/VolumeValet-Server](https://github.
   
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [contributors-url]: https://github.com/kshitij-ra/VolumeValet-Server/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [forks-url]: https://github.com/kshitij-ra/VolumeValet-Server/network/members
-[stars-shield]: https://img.shields.io/github/stars/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [stars-url]: https://github.com/kshitij-ra/VolumeValet-Server/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [issues-url]: https://github.com/kshitij-ra/VolumeValet-Server/issues
-[license-shield]: https://img.shields.io/github/license/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [license-url]: https://github.com/kshitij-ra/VolumeValet-Server/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kshitij-radotra/

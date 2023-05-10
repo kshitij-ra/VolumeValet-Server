@@ -20,7 +20,7 @@
 <p  align="center">
 VolumeValet is a convenient Android app for controlling your PC's volume from your phone over the local network. This repo is for the VolumeValet-Server that needs to run on your PC.
 
-Check out the VolumeValet App [here](https://github.com/kshitij-ra/VolumeValet)
+Check out the [VolumeValet App](https://github.com/kshitij-ra/VolumeValet)
 <br />
 <a  href="https://github.com/kshitij-ra/VolumeValet-Server/issues">Report Bug</a> · 
 <a  href="https://github.com/kshitij-ra/VolumeValet-Server/issues">Request Feature</a>
@@ -101,7 +101,7 @@ Before anything, be sure to have a working python setup. If not installed, go to
 ### Steps
 1. Clone the repo  
     ```sh
-    git clone https://github.com/kshitij-ra/VolumeValet-Server.git
+    $ git clone https://github.com/kshitij-ra/VolumeValet-Server.git
     ```
 2. Extract the file and cd to the repo folder.
 3. To install dependencies, run 
@@ -176,15 +176,15 @@ Project Link: [https://github.com/kshitij-ra/VolumeValet-Server](https://github.
   
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [contributors-url]: https://github.com/kshitij-ra/VolumeValet-Server/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [forks-url]: https://github.com/kshitij-ra/VolumeValet-Server/network/members
-[stars-shield]: https://img.shields.io/github/stars/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [stars-url]: https://github.com/kshitij-ra/VolumeValet-Server/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [issues-url]: https://github.com/kshitij-ra/VolumeValet-Server/issues
-[license-shield]: https://img.shields.io/github/license/kshitij-ra/VolumeValet.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/kshitij-ra/VolumeValet-Server.svg?style=for-the-badge
 [license-url]: https://github.com/kshitij-ra/VolumeValet-Server/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kshitij-radotra/
